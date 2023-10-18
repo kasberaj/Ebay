@@ -1,0 +1,1 @@
+pytest -v -s -n = --html=Reports/ebay.html
